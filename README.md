@@ -1,0 +1,2 @@
+The Healthy-Hints repository offers a modern, dark-themed health and wellness dashboard built with HTML5, CSS3, and Python, featuring personalized tracking, self-care insights, and interactive visualizations. It includes secure authentication and a responsive UI, with installation instructions provided via cloning and virtual environment setup. Review the project documentation and code at GitHub.
+
